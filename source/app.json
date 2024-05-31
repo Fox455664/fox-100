@@ -70,12 +70,12 @@
         },
         "UPSTREAM_REPO": {
             "description": "If you dont know this, Leave as it is",
-            "value": "https://github.com/TeamYukki/YukkiMusicBot.git",
+            "value": "https://github.com/Fox455664/fox-100.git",
             "required": true
         },
         "UPSTREAM_BRANCH": {
             "description": "Upstream Repo's Branch Name",
-            "value": "master",
+            "value": "main",
             "required": true
         }
     },
